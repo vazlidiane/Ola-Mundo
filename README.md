@@ -1,6 +1,6 @@
 # Olá, Mundo!
- Primeirorepositório curso Git e GitHub
+ Primeirorepositório **Curso Git e GitHub**
  
- Aprender para crescer
+ *Aprender para crescer*
 
  Essa linha, eu adicionei diretamente no site.QUE IMPRESSIONANTE!!!
